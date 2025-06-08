@@ -14,3 +14,10 @@ data science we have to make sure the data set only contains clear images
 which have distinctive features allowing machine learning models to provide
 accurate results.
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Merging takes two branches and preserves their full history with a merge
+commit, while rebasing rewrites your branch’s history to make it look like
+your work happened after the latest changes.
+
