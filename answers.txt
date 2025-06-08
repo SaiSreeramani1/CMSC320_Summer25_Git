@@ -7,5 +7,10 @@ Q2: What field could data science be applied to? Give an Example.
 
 Data Science could be applied to the field of machine learning where in order
 to run and train models you need to first gather data which has to cleaned in 
-order to provide accurate meaningful results.
+order to provide accurate meaningful results. For example, if you want to
+classify whether an image is a picture of a cat or dog, it's extremely
+important to gather proper data of images of cats and dogs and with
+data science we have to make sure the data set only contains clear images
+which have distinctive features allowing machine learning models to provide
+accurate results.
 
