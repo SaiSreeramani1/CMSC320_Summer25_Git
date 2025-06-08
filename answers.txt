@@ -2,3 +2,10 @@ Q1: Why might we consider using Git?
 
 In order to save iterations of our code which we can later reference
 or revert back to if needed.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Data Science could be applied to the field of machine learning where in order
+to run and train models you need to first gather data which has to cleaned in 
+order to provide accurate meaningful results.
+
